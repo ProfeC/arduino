@@ -1,6 +1,11 @@
 ArduinoJson: change log
 =======================
 
+v5.1.1
+------
+
+* Removed `String` duplication when one replaces a value in a `JsonObject` (PR #232 by @ulion)
+
 v5.1.0
 ------
 
